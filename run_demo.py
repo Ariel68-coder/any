@@ -637,6 +637,7 @@ def main():
     if recommendation:
         print(f"DCF-based Recommendation: {recommendation}")
     print(f"Files saved in: ./{OUTPUT_DIR}/")
+    print("[INFO] See IC_memo.md for the full investment memo.")
 
 
 if __name__ == "__main__":
